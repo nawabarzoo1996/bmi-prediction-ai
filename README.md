@@ -1,4 +1,4 @@
-# BMI Prediction using AI 🤖
+# BMI Prediction 🤖
 
 Predicting Body Mass Index (BMI) using Neural Network and Linear Regression models.
 
