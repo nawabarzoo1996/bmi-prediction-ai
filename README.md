@@ -36,7 +36,7 @@ This project compares two machine learning models — Neural Network and Linear 
 ## 🚀 How to Run
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/bmi-prediction-ai.git
+git clone https://github.com/nawabarzoo1996/bmi-prediction-ai.git
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -46,3 +46,12 @@ python main.py
 ```
 
 ## 📁 Project Structure
+
+## 📚 Key Learnings
+- Data quality matters more than model complexity
+- Linear Regression works well for simple regression tasks
+- Visualization helps evaluate model performance
+
+## 👤 Author
+**Nawab Arzoo**   
+Year: 2026
